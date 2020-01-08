@@ -1,0 +1,65 @@
+body,html {
+    background: url('./assets/herringbone.png');
+}
+.App {
+    margin: 2% auto;
+    text-align: center;
+    background: url('./assets/herringbone.png');
+}
+
+.search_input_style {
+    width: 50%;
+    margin: 2% auto;
+}
+
+.dropdown_style {
+    width: 50%;
+    background-color: white;
+}
+
+#image_style {
+    width: 50%;
+    margin: auto;
+}
+
+.display_child {
+   float: left;
+   margin: 2%;
+}
+
+#card_style {
+    width: 100%;
+    min-height: 550px;
+    background-color: grey;
+}
+
+.checkbox_style1 {
+    display: inline;
+}
+
+.checkbox_style2 {
+    display: inline;
+}
+
+.main_checkbox_style {
+    margin: 2%;
+    font-weight: bold;
+}
+
+.card-title, .card-subtitle {
+    color: white;
+    font-size: 18px;
+}
+
+input[type="radio"]{
+  margin: 0 10px 0 10px;
+}
+
+.negative_style {
+    text-align: center;
+    font-size: 18px;
+}
+
+.button_style {
+    background-color: white;
+}
